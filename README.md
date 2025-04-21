@@ -25,7 +25,8 @@ Olá! Meu nome é **Gabriel**, sou desenvolvedor e freelancer na área de TI. Te
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 🎨 Animação
-![Flipaclip] [Blender] (https://img.shields.io/badge/Flipaclip-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+![Flipaclip] 
+![Blender](https://img.shields.io/badge/Flipaclip-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
 ## 📌 Projetos em Destaque
 | 🚀 Projeto | 🔗 Link |
