@@ -1,6 +1,6 @@
 # 💻 Gabriel | Desenvolvedor e Animador 🎨
 
-<img src="https://via.placeholder.com/800x200" alt="Banner" />
+
 
 ## 🚀 Sobre mim
 Olá! Meu nome é **Gabriel**, sou desenvolvedor e freelancer na área de TI. Tenho experiência com **desenvolvimento de sistemas** e estou sempre buscando aprender mais sobre novas tecnologias. Além disso, sou apaixonado por **animação**, e gosto de criar vídeos e histórias para o público infantil.
