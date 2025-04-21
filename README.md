@@ -32,13 +32,11 @@ Olá! Meu nome é **Gabriel**, sou desenvolvedor e freelancer na área de TI. Te
 |------------|--------|
 | **Gerenciamento de Ordens de Serviço** | [Acesse aqui](#) |
 | **Meu Portfólio** | [Acesse aqui](#) |
-| **Animações no YouTube** | [Acesse aqui](#) |
+| **Animações no YouTube** | |
 
 ## 📫 Contato
-📩 **Email:** seuemail@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/seuusuario](#)  
-📺 **YouTube:** [youtube.com/seucanal](#)  
-
+📩 **Email:** gabrieldeoliveira_32@hotmail.com  
+💼 **LinkedIn:** [www.linkedin.com/in/gabriel-leme-872798184](#)  
 ---
 _“Sempre aprendendo e criando!”_ 🚀🎨
 
